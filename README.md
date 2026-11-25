@@ -1,5 +1,9 @@
 # Conditional Access Baseline Kit: Top 5 (free)
 
+[![Conditional Access Baseline Kit: Top 5 (free)](assets/cover.png)](https://runbooklabhq.com/kits/conditional-access/)
+
+**[Every control on the kit page](https://runbooklabhq.com/kits/conditional-access/)** · [Microsoft 365 deadline calendar](https://runbooklabhq.com/guides/deadlines/) · [Runbook Lab](https://runbooklabhq.com/)
+
 Most Microsoft Entra tenants need the same five Conditional Access controls first: two emergency access accounts that every policy excludes and that raise an alert when used, a report-only habit so no policy goes straight to On, MFA for all users on all resources with an authentication strength, legacy authentication blocked, and phishing-resistant MFA for administrators. This kit checks those five and turns them into a project.
 
 | File | What it is |
@@ -31,6 +35,6 @@ Global Reader or Security Reader is enough. Needs the Microsoft.Graph PowerShell
 - The Complete kit adds 15 controls: passkeys, Temporary Access Pass, registration campaign, SMS/voice retirement, security info registration, device code flow, sign-in and user risk, session lifetime, token protection, guests, named locations, insights workbook, exclusion reviews and policy backups.
 
 ## Complete kit
-All 20 controls (passkeys, Temporary Access Pass, SMS/voice retirement, device code flow, risk policies, session lifetime, token protection, guests, quarterly reviews) plus a 12-policy target set and rollout routine: https://runbooklab.gumroad.com/l/entra-conditional-access-kit?utm_source=github&utm_campaign=ca-free-repo
+All 20 controls (passkeys, Temporary Access Pass, SMS/voice retirement, device code flow, risk policies, session lifetime, token protection, guests, quarterly reviews) plus a 12-policy target set and rollout routine: https://runbooklab.gumroad.com/l/entra-conditional-access-kit
 
 MIT licence. Not affiliated with or endorsed by Microsoft. Create every policy in Report-only first and keep your emergency access accounts excluded.
